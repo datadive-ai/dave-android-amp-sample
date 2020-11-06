@@ -1,0 +1,170 @@
+[
+  {
+    "id": "EF1CC5BB-4785-4D8E-AB98-5FA4E00B6A66",
+    "name": "커피/차류",
+    "products": [
+      {
+        "id": "EDCD038C-036F-4C40-826F-61C88CD84DDD",
+        "name": "맥심 모카골드 커피믹스 50입",
+        "price": 5700,
+        "brand_name": "맥심",
+        "brand_id": "b17a173d-0ba8-469c-a6e9-fbffe247bee6",
+        "review_count": 4,
+        "review_avg_rating": 4.72,
+        "description": "Sweet, fluffy, and served piping hot, our French toast is flown in fresh every day from Maple City, Canada, which is where all maple syrup in the world comes from. And if you believe that, we have some land to sell you…"
+      },
+      {
+        "id": "36A7CC40-18C1-48E5-BCD8-3B42D43BEAEE",
+        "name": "담터 자판기 우유맛한잔 10입",
+        "price": 3180,
+        "brand_name": "담터",
+        "brand_id": "92cb0e38-2ab3-4923-95df-cfee4e551529",
+        "review_count": 14,
+        "review_avg_rating": 3.2,
+        "description": "What do you get? Pancakes! How many do you get? One metric stack! That's equivalent to 1000 millistacks, or a tenth of a kilostack. In short, you get a lot of pancakes."
+      },
+      {
+        "id": "CFB8C2DB-3478-4A10-92FA-3D2A2D5324FB",
+        "name": "동서 보리차 300g",
+        "price": 1980,
+        "brand_name": "동서",
+        "brand_id": "58a71347-34ae-4a3e-a689-dd436bb118ab",
+        "review_count": 71,
+        "review_avg_rating": 4.11,
+        "description": "Is normal muesli too boring? Of course it is. That's why we serve power muesli – it's like regular muesli, except we put the word \"power\" in front of it so we can charge more."
+      },
+      {
+        "id": "8903A204-F5C1-4D5C-A0A1-5C0ECD27FDD7",
+        "name": "GSfresh 유자청(1kg/병)",
+        "price": 7980,
+        "brand_name": "GS",
+        "brand_id": "c627b3f8-2f7f-43ab-9536-4c2fceb18cc9",
+        "review_count": 21,
+        "review_avg_rating": 4.38,
+        "description": "This is just a regular croissant that we buy in bulk from a frozen foods supermarket, but we needed some sort of adjective to justify our price. So, it was either \"fresh-baked\" or \"authentic Parisian\", and our legal team thinks the latter is probably going to land us in hot water."
+      },
+      {
+        "id": "82B28AFF-BB29-4186-AA07-04959180D81A",
+        "name": "생강청 950g",
+        "price": 9900,
+        "brand_name": "GS",
+        "brand_id": "c627b3f8-2f7f-43ab-9536-4c2fceb18cc9",
+        "review_count": 15,
+        "review_avg_rating": 2.5,
+        "description": "If you like eating breakfast out of things that could easily be served any time of day, then we have the perfect thing for you. Comes with tomato ketchup or brown sauce depending on how northern you sound."
+      }
+    ]
+  },
+  {
+    "id": "3D97FAB4-50AC-40FC-9BF0-3F46BB6A92F5",
+    "name": "헬스/뷰티",
+    "products": [
+      {
+        "id": "D44AAEBC-BF4F-42CD-8C37-0FEF772A5B69",
+        "name": "해피바스 내추럴 바디밀크 로션 450ML",
+        "price": 4500,
+        "brand_name": "해피바스",
+        "brand_id": "111556d6-2139-473b-8889-6162552f5f44",
+        "review_count": 20,
+        "review_avg_rating": 2.8,
+        "description": "What's better than a creamy artisinal[1] pasta that has been hand-made[2] by our chefs[3]? All that with bacon, of course! ([1] Shop bought; [2] Hand-purchased; [3] wait staff)"
+      },
+      {
+        "id": "2BAD20C5-D007-4BBE-B074-8CF0F256A42F",
+        "name": "크리넥스 KF94 4단 마스크 대형 8p",
+        "price": 7920,
+        "brand_name": "크리넥스",
+        "brand_id": "aec4f967-f177-459b-b2fe-e0842891ebc5",
+        "review_count": 11,
+        "review_avg_rating": 4.84,
+        "description": "If you're the kind of fun guy (sorry not sorry) that likes salami-filled Italian food with a twist, this is the perfect dish for you. The twist? We lied about the meat."
+      },
+      {
+        "id": "759527CB-1064-4082-A527-F04698F9D18F",
+        "name": "니베아 맨 쿨 킥 쉐이빙 폼 200ml",
+        "brand_name": "니베아",
+        "brand_id": "358a3640-1b29-4470-8502-f8b9ab8f5604",
+        "price": 5500,
+        "review_count": 0,
+        "review_avg_rating": 0,
+        "description": "It's a truth universally acknowledged that every restaurant is in want of a burger, and trust us: this thing is so tall you can't even get your mouth around it without dislocating your jaw."
+      },
+      {
+        "id": "AD419CE6-50CC-4132-BE8E-B92B9DFE4D02",
+        "name": "도루코 페이스4 면도기 4입",
+        "brand_name": "도루코",
+        "brand_id": "ee880ee0-11c5-4120-8a1b-f90d05ee22c7",
+        "price": 5900,
+        "review_count": 1,
+        "review_avg_rating": 5,
+        "description": "This dish errs more towards \"scorching\" than \"spicy\", so let us know ahead of time if you want it so we can put a few fire engines on standby."
+      },
+      {
+        "id": "944AB773-16CA-48F9-BB64-BB0E482FE102",
+        "name": "코리아나 에띠끄 옴므 아쿠아 에너지 기초 스킨케어 세트",
+        "price": 35000,
+        "brand_name": "코리아나",
+        "brand_id": "2ddd0092-94ca-4f8b-9f74-30cdcbbdb316",
+        "review_count": 9,
+        "review_avg_rating": 2.15,
+        "description": "This is paella made Alicante-style. We don't quite know what that means, but we need to justify the Spanish junket somehow. ¡Olé!"
+      },
+      {
+        "id": "024763B6-2577-4D04-9A4F-321F3EB19EA6",
+        "name": "랩시리즈 스킨케어 포맨 멀티액션 훼이스 워시 100ml",
+        "price": 55000,
+        "brand_name": "랩시리즈",
+        "brand_id": "407959e6-79ea-4977-99bd-1d24c4d8cd5a",
+        "review_count": 27,
+        "review_avg_rating": 3.1,
+        "description": "Many people believe that kale, spinach, and other such things can detox their body, and if that's you we're happy to take your money from you with this salad."
+      }
+    ]
+  },
+  {
+    "id": "1C89DAFD-7653-4EF2-BF20-C51A159BAC43",
+    "name": "패션/잡화",
+    "products": [
+      {
+        "id": "AB7E38EA-05A7-426A-AFF3-B3A32B3E86BF",
+        "name": "티피코시 수동 3단 우산",
+        "price": 11000,
+        "brand_name": "티피코시",
+        "brand_id": "5c771787-da67-4276-992a-9c10030e42d5",
+        "review_count": 6,
+        "review_avg_rating": 3.5,
+        "description": "Bob, people keep asking us why this thing has D and V for its restrictions, and it's making other customers worry that we are some sort of D&V hotspot. [NOTE FOR BOB: Can we find another word for dairy intolerance?]"
+      },
+      {
+        "id": "758ABBE3-F338-4F7C-BAC7-8D61BC1FB329",
+        "name": "HEAD 스쿠터 킥보드",
+        "price": 79000,
+        "brand_name": "HEAD",
+        "brand_id": "3d2a6170-a451-4f5f-9404-eaa17c5c0b1e",
+        "review_count": 9,
+        "review_avg_rating": 3.3,
+        "description": "For times when one, two, or even three macarons aren't enough, we're proud to present macarons galore – four macarons, to fully satisfy your craving for these sweet almondy delights!"
+      },
+      {
+        "id": "A73E2D2D-D53A-46D4-8829-62011EEF7DA4",
+        "name": "Lucky32 S-27-3 로즈골드 투톤 게르마늄팔찌 남녀공용",
+        "price": 129000,
+        "brand_name": "GS",
+        "brand_id": "c627b3f8-2f7f-43ab-9536-4c2fceb18cc9",
+        "review_count": 13,
+        "review_avg_rating": 4.01,
+        "description": "Donuts! More donuts! And yet more donuts! Exactly how many you get depends on the day – we pretty much cram them all on to a plate then see how many we can balance as we walk them to your table."
+      },
+      {
+        "id": "971CFDDD-2AFA-418F-909F-D459CC6827CF",
+        "name": "노스피크 Northpeak 플레이어 T1 초경량 타프",
+        "price": 99000,
+        "brand_name": "노스피",
+        "brand_id": "fb4a61ff-1f72-4c76-a5d2-d3505392a915",
+        "review_count": 8,
+        "review_avg_rating": 4.2,
+        "description": "This is no regular sundae – it's a super sundae! I think that means it wears glasses and has an unusual fear of kryptonite? Yeah, that sounds about right."
+      }
+    ]
+  }
+]
